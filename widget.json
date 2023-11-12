@@ -1,0 +1,30 @@
+{
+  "name": "Flip-Clock",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Flip-Clock",
+  "version": "0.0.3",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Flip-Clock",
+    "zh_CN": "翻页时钟"
+  },
+  "description": {
+    "default": "一个好看的翻页时钟",
+    "zh_CN": "A good-looking flip clock"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "天气预报", "weather-forecast"
+  ]
+}
